@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/starCrispy/static/js/main.4cc9395c.js",
+    "static/media/Pizza-with-mushrooms-and-olives-1920x1200.jpg": "/starCrispy/static/media/Pizza-with-mushrooms-and-olives-1920x1200.63fa84bca76453b6743f.jpg",
+    "static/media/Mango-Mastani-Recipem-Mastani-Drink-V2.jpg": "/starCrispy/static/media/Mango-Mastani-Recipem-Mastani-Drink-V2.10ea1978f4e4c4bb5588.jpg",
+    "static/media/strawberry-shake-on-clear-drinking-glass.jpg": "/starCrispy/static/media/strawberry-shake-on-clear-drinking-glass.ddd8781a1ca9c2dc473d.jpg",
+    "static/media/15339884.jpg": "/starCrispy/static/media/15339884.0c62590ee83bf9eeac50.jpg",
+    "index.html": "/starCrispy/index.html",
+    "main.4cc9395c.js.map": "/starCrispy/static/js/main.4cc9395c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4cc9395c.js"
+  ]
+}
